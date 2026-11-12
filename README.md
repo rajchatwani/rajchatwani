@@ -1,40 +1,43 @@
 <!-- ============================================================
-  HOW TO USE
-  1. Replace every YOUR_USERNAME with your GitHub username
-  2. Replace YOUR NAME (use %20 for spaces inside URLs) and the text lines
-  3. Delete any section you don't want
+  EDIT THESE BEFORE COMMITTING (search for the CAPITAL words):
+  YOUR_DEGREE, YOUR_COLLEGE, YOUR_LINKEDIN, YOUR_EMAIL, PROJECT_*
+  Username used below: rajchatwani  (change if yours is different)
 ============================================================ -->
 
-<!-- ========== ANIMATED HEADER ========== -->
+<!-- ========== HEADER ========== -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c9ac4&height=220&section=header&text=YOUR%20NAME&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Your%20Degree%20%7C%20Your%20Role%20%7C%20Your%20Interest&descSize=20&descAlignY=60" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=230&section=header&text=Hi%2C%20I'm%20RAJ%20%F0%9F%91%8B&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=YOUR_DEGREE%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=60&descSize=18" width="100%" alt="header" />
+</div>
 
 <!-- ========== TYPING ANIMATION ========== -->
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=50&lines=Turning+ideas+into+working+software;Learning+something+new+every+day;Open+to+opportunities+%F0%9F%9A%80" alt="typing intro" />
-</a>
-
-<br/>
-
-<!-- ========== BADGES ========== -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge" alt="views"/>
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&logo=github&style=for-the-badge&color=38bdf8&labelColor=555555" alt="followers"/>
-
+<div align="center">
+  <a href="https://github.com/rajchatwani">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B+I'm+RAJ;Building+practical+AI+solutions;Turning+ideas+into+working+software;Learning+something+new+every+day" alt="Typing SVG" />
+  </a>
 </div>
+
+<p align="center">
+  <b>I like solving real problems and turning ideas into practical software.</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajchatwani&label=PROFILE%20VIEWS&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/rajchatwani?label=FOLLOWERS&style=for-the-badge&color=36BCF7&logo=github&labelColor=555555" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/rajchatwani?label=STARS&style=for-the-badge&color=36BCF7&logo=github&labelColor=555555" alt="Stars" />
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 ```text
-┌──────────────────────────────────────────────────┐
-│ 🎓  Your Degree  @ Your College / University     │
-│ 🐍  Python & Software Development                │
-│ 🤖  Artificial Intelligence & Machine Learning   │
-│ 👁️  Computer Vision & real-world applications    │
-│ 💡  I learn best by building projects            │
-└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  🎓 YOUR_DEGREE  @ YOUR_COLLEGE                      │
+│  🐍 Python & Software Development                    │
+│  🤖 Artificial Intelligence & Machine Learning       │
+│  👁️ Computer Vision & real-world AI applications     │
+│  💡 I learn best by building projects                │
+└──────────────────────────────────────────────────────┘
 ```
 
 > _"I enjoy solving complex problems and turning them into practical solutions."_
@@ -45,67 +48,91 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<br/><br/>
+
+**AI / Machine Learning**<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF9900?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+
+<br/><br/>
+
+**Tools & Databases**<br/>
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 </div>
 
+> ✏️ Keep only the skills you actually have. Delete the rest.
+
 ---
 
-## 🔭 What I'm Up To
+## 📚 Currently Learning
 
-| | |
-|---|---|
-| 🌱 **Learning** | Your current topic (e.g. Deep Learning) |
-| 🔨 **Building** | Your next project idea |
-| 🎯 **Goal** | Your goal (e.g. AI/ML internship) |
-| 💬 **Ask me about** | Python, ML, data science |
+| Topic | Focus |
+|:--|:--|
+| 🐍 **Advanced Python** | Writing cleaner, more scalable code |
+| 🤖 **ML & Deep Learning** | Models, training and evaluation |
+| 👁️ **Computer Vision** | Detection, recognition, real-world use |
+| 🧮 **DSA** | Problem solving and efficiency |
+| 🗄️ **Databases** | Design, SQL and MongoDB |
+
+---
+
+## 🚀 Featured Project
+
+<!-- Delete this section until you have your own project -->
+<table>
+  <tr>
+    <td>
+      <h3>🔨 <a href="https://github.com/rajchatwani/PROJECT_REPO">PROJECT_NAME</a></h3>
+      <p>One or two lines on what your project does and why it is useful.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="95%"/>
-
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajchatwani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajchatwani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=rajchatwani&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajchatwani&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" alt="Activity graph" width="95%" />
 </div>
 
 ---
 
 ## 🤝 Let's Connect
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/rajchatwani">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
 <div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c9ac4,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
 </div>
