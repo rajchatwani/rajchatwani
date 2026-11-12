@@ -13,7 +13,7 @@
 
 <p align="center">
   <b>I'm interested in solving complex problem statements and building practical AI solutions for real-world applications.</b>
-  <img src="https://komarev.com/ghpvc/?username=DveejKotiya&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hello&label=Profile%20Views&color=36BCF7&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/DveejKotiya?style=for-the-badge&color=36BCF7&logo=github" alt="Followers" />
 </p>
 
