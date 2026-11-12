@@ -1,7 +1,7 @@
-# Hi 👋, I'm RAJ CHATWANI
+# Hi 👋, I'm max
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=Dveej%20Kotiya&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=220&section=header&text=hello%20hello&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MSc%20Data%20Science%20%7C%20Python%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%" />
 </div>
 
 <div align="center">
