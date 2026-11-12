@@ -1,9 +1,3 @@
-<!--
-  RAJ profile README
-  Needs the 4 files in an "assets" folder of this same repo:
-  header.svg, terminal.svg, skills.svg, divider.svg
-  Edit only: YOUR_LINKEDIN and YOUR_EMAIL near the bottom (and any text you like).
--->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajchatwani/rajchatwani/main/assets/header.svg" width="100%" alt="RAJ - Developer in the making" />
