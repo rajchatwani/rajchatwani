@@ -104,7 +104,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raj-chatwani-3468532b0/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="rajchatwani07@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:rajchatwani07@gmail.com"><img src="https://img.shields.io/badge/Email-22d3ee?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/rajchatwani"><img src="https://img.shields.io/badge/GitHub-f472b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
   <br/><br/>
